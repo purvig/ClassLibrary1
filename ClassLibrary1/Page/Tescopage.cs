@@ -20,6 +20,7 @@ namespace ClassLibrary1.Page
             PageFactory.InitElements(driver, this);
         }
         //test1
+        //test2
 
         public void Navigatemethod()
         {
