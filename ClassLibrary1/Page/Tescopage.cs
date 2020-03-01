@@ -19,8 +19,7 @@ namespace ClassLibrary1.Page
             driver = Driver;
             PageFactory.InitElements(driver, this);
         }
-        //test1
-        //test2
+        //test3
 
         public void Navigatemethod()
         {
